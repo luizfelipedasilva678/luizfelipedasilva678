@@ -29,6 +29,6 @@ Languages and Tools:
 
 <hr>
 
-![luizfelipedasilva678 GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizfelipedasilva678&show_icons=true)
+![luizfelipedasilva678 GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizfelipedasilva678&show_icons=true&theme=dracula)
 
 
