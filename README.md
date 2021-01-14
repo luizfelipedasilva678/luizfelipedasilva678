@@ -11,7 +11,3 @@
 -->
 
 - 🌱 I’m currently learning: &#160; Node.js | C# | React
-
-<hr>
-
-
